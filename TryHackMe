@@ -1,22 +1,21 @@
-# Mis primeros pasos en TryHackMe (Ruta Pre Security)
+🛡️¡Mi primer hackeo!
+Registro de mi viaje de aprendizaje, laboratorios prácticos y evolución en el mundo de la ciberseguridad a través de TryHackMe.
 
-## Descripción
-Registro de mi progreso y notas iniciales en la plataforma de ciberseguridad TryHackMe, comenzando con los fundamentos de hardware, arquitectura y sistemas de la ruta Pre Security.
+🚀 Laboratorios y Módulos Completados
+1️⃣ Fundamentos de Sistemas (Pre Security)
+Descripción:Registro de los conceptos iniciales de hardware, arquitectura informática, modelo cliente-servidor y virtualización.
+Objetivo: Comprender cómo funcionan los sistemas y las redes por debajo antes de pasar a la práctica técnica.
+Contexto: Autoestudio en la plataforma TryHackMe.
 
-## Objetivo
-Comprender cómo funcionan los componentes básicos de una computadora, el modelo cliente-servidor y los conceptos esenciales de virtualización antes de pasar a la práctica técnica de hacking.
+ 2️⃣ Offensive Security Intro
+Descripción: Mi primer laboratorio práctico de hacking ético, explorando la mentalidad de un atacante al descubrir páginas ocultas y vulnerar un panel de administración.
+Objetivo: Experimentar de primera mano el rol de un hacker ético, entendiendo las estrategias y el análisis de detalles en entornos web.
+Contexto: Práctica interactiva en TryHackMe.
+🛠️ Pasos realizados:
+  1. Comprensión de la mentalidad ofensiva y la ética hacker (Task 1).
+  2. Despliegue del entorno y conexión al laboratorio (Task 2).
+  3. Búsqueda y descubrimiento de páginas y directorios ocultos (Task 3).
+  4. Análisis e interacción con el panel de administración para conseguir el acceso (Task 4).
 
-## Contexto
-Práctica y autoestudio personal como parte de mi iniciación en el mundo de la ciberseguridad.
-
-## Pasos realizados
-1. Creación de mi cuenta y familiarización con la plataforma de TryHackMe.
-2. Inicio de la ruta de aprendizaje "Pre Security".
-3. Lectura y resolución de cuestionarios sobre los componentes internos de un sistema informático y tipos de computadoras.
-4. Estudio de los conceptos básicos del modelo cliente-servidor y la virtualización.
-
-## Resultado
-Completé con éxito las primeras lecturas y cuestionarios teóricos, afianzando los conceptos de hardware y arquitectura que sustentan toda la infraestructura tecnológica moderna.
-
-## Aprendizajes
-Aprendí que entender cómo fluye la información entre un cliente y un servidor, así como el funcionamiento de las máquinas virtuales, es el cimiento obligatorio para poder identificar y explotar vulnerabilidades de seguridad en el futuro.
+🎯 Resultado:Sala completada al 100%, con captura de flags y compromiso exitoso del sistema.
+🔥 Aprendizajes: ¡Me encantó! Comprendí que el hacking se basa en **revisar los detalles**, entender la lógica de los sistemas y descubrir cómo pequeños descuidos abren caminos inesperados.
