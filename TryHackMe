@@ -1,0 +1,22 @@
+# Mis primeros pasos en TryHackMe (Ruta Pre Security)
+
+## Descripción
+Registro de mi progreso y notas iniciales en la plataforma de ciberseguridad TryHackMe, comenzando con los fundamentos de hardware, arquitectura y sistemas de la ruta Pre Security.
+
+## Objetivo
+Comprender cómo funcionan los componentes básicos de una computadora, el modelo cliente-servidor y los conceptos esenciales de virtualización antes de pasar a la práctica técnica de hacking.
+
+## Contexto
+Práctica y autoestudio personal como parte de mi iniciación en el mundo de la ciberseguridad.
+
+## Pasos realizados
+1. Creación de mi cuenta y familiarización con la plataforma de TryHackMe.
+2. Inicio de la ruta de aprendizaje "Pre Security".
+3. Lectura y resolución de cuestionarios sobre los componentes internos de un sistema informático y tipos de computadoras.
+4. Estudio de los conceptos básicos del modelo cliente-servidor y la virtualización.
+
+## Resultado
+Completé con éxito las primeras lecturas y cuestionarios teóricos, afianzando los conceptos de hardware y arquitectura que sustentan toda la infraestructura tecnológica moderna.
+
+## Aprendizajes
+Aprendí que entender cómo fluye la información entre un cliente y un servidor, así como el funcionamiento de las máquinas virtuales, es el cimiento obligatorio para poder identificar y explotar vulnerabilidades de seguridad en el futuro.
